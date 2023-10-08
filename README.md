@@ -1,3 +1,8 @@
-build in ./project with make -j
-them ./project
-shift + left click to move tissu
+To run the project :
+``` shell script
+cd project
+make -j
+./project
+```
+
+To move the cloth, Shift + Left Click on it. Have fun !
